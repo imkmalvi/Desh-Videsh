@@ -1,9 +1,7 @@
 # 🌍 Desh-Videsh — Travel Discovery Platform
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge&logo=netlify)](https://desh-videsh.netlify.app/)
-[![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
+
 
 > A full-stack travel discovery platform to explore destinations across countries and cities — built with React.js, Node.js, Express, and MongoDB.
 
